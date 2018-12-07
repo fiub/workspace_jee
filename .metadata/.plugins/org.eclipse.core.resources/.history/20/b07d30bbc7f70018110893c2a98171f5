@@ -1,0 +1,21 @@
+package selenium3;
+
+public class Test1 {
+	 
+	 
+	 
+    public static void main(String[] args) {
+ 
+ 
+ 
+       WebDriver driver = new FirefoxDriver();
+ 
+       driver.get("http://www.google.com");
+ 
+       driver.quit();
+ 
+    }
+ 
+ 
+ 
+}
